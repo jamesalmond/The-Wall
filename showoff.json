@@ -1,0 +1,13 @@
+{
+  "name": "Rails: getting through 'The Wall'",
+   "sections": [ 
+    { "section" : "01-introduction"},
+    { "section" : "02-what_is_the_wall"},
+    { "section" : "03-the_rails_stack"},
+    { "section" : "04-seperation_of_concerns"},
+    { "section" : "05-views"},
+    { "section" : "06-controllers"},
+    { "section" : "07-models"},
+    { "section" : "08-summary"}
+   ]
+}

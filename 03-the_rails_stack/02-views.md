@@ -23,3 +23,16 @@
     else
       %p No latest!
     end
+!SLIDE
+    @@@ ruby
+    %h1 Dashboard
+
+    if @latest.count > 0
+      @latest.each do |book|
+        %h2= book.author.name
+        = (book.release_date < Date.today) ?
+          "Released!" : "Coming Soon!"
+      end
+    else
+      %p No latest!
+    end

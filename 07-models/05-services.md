@@ -56,3 +56,10 @@
         # ....
       end
     end
+!SLIDE bullets incremental
+# Benefits #
+* Extract logic from the persistence layer
+* Testable outside the controller
+* Re-usable throughout application and tests
+* Well suited to refactoring
+* Intent is now explicit (i.e. email sending)

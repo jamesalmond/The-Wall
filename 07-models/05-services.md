@@ -63,3 +63,4 @@
 * Re-usable throughout application and tests
 * Well suited to refactoring
 * Intent is now explicit (i.e. email sending)
+* They don't have to touch the database!

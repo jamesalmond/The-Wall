@@ -10,6 +10,12 @@
 # DRY means "don't repeat yourself"
 * not "less code"
 
+!SLIDE
+# Single Responsibility Principle
+
+!SLIDE
+# Do something different
+
 !SLIDE bullets incremental
 # Side by side with:
 * Testing
